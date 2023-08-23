@@ -36,6 +36,5 @@ if(contador == 3):
 if(contador == 2):
     print("Rima poco")
 
-else:
-    print("No riman")
-
+if(contador < 2):
+    print("No rima")
