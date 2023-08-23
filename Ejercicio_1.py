@@ -6,7 +6,7 @@ Created on Fri Aug 18 11:28:19 2023
 """
 import random
 
-numeroRandom = random.randint(0, 10)
+numeroRandom = random.randint(0, 100)
 
 entrada = True
 contador = 0
